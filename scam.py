@@ -7,6 +7,7 @@ os.makedirs("Conv", exist_ok=True)
 
 with open("fraud_context.txt", "r", encoding="utf-8") as f:
     contexts = f.readlines()
+    contexts = contexts[:200]
 
 for j, context in enumerate(contexts, start=1):
     history = ""
