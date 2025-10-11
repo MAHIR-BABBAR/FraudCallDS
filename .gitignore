@@ -1,2 +1,5 @@
 env/
 convo.txt
+.env
+Conv/
+__pycache__/
