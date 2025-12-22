@@ -1,5 +1,6 @@
 import json
 import os
+import time
 
 print("Hello i am ")
 
@@ -20,10 +21,11 @@ client = genai.GenerativeModel("gemini-2.5-flash-lite")
 print("Hello i am running..")
 os.makedirs("Conv3", exist_ok=True)
 
-for i in range(1, 201):
+for i in range(23, 201):
     try:
         with open(f"Conv/conv_{i}.txt", "r") as f:
             print(f"Augumenting {i}")
+            time.sleep(10)
             resp = client.generate_content(
                 f"""You are given a conversation your job is to create another conversation like this but in a different context like this is a scam call
                 so the topic of the scam must remain the same but content should be different the conversation is {f.read()} also return

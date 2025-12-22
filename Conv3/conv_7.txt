@@ -1,0 +1,71 @@
+
+{
+  "original_conversation": [
+    {
+      "speaker": "caller",
+      "line": "Hello sir, main Vodafone customer care se bol raha hoon. Aapki SIM 23 ghante mein band ho jayegi. Kya aap ise activate karna chahenge?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Achha? Vodafone customer care se? Mujhe toh kuch pata hi nahi chala. Main kaise activate kar sakta hoon?"
+    },
+    {
+      "speaker": "caller",
+      "line": "Haan sir, bilkul. Agar aap chahte hain ki aapki SIM continue chale, toh mujhe aapki kuch details confirm karni hongi. Aapka pura naam aur aapki SIM ka registration number bata sakte hain?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Wait a minute, registration number? Vodafone se ho toh aapko pata hona chahiye na mera number. Aur naam? Woh toh aapke record mein hoga hi. Kuch gadbad lag rahi hai mujhe."
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, woh toh hai. But yeh process hai hamare system ka. Kuch technical issue rehta hai kabhi kabhi. Agar aapko doubt ho raha hai toh main aapko ek OTP bhejta hoon. Woh OTP aap mujhe bata dena, fir main aapka naam aur SIM number verify kar loonga. Phir aapki SIM activate ho jayegi. Bilkul safe process hai sir."
+    },
+    {
+      "speaker": "receiver",
+      "line": "OTP? Aur woh bhi mujhe batana padega? Yeh toh bilkul sahi nahi lag raha hai. Agar sach mein Vodafone se ho toh yeh OTP wala chakkar kyon? Main nahi bataunga koi bhi OTP. Kuch aur tarika hai activate karne ka toh batao warna main call cut kar raha hoon."
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, sir, shaant ho jaiye. Samajh sakta hoon aapko doubt ho raha hai. Dekhiye, yeh OTP isliye mang rahe hain kyunki yeh new security protocol hai Vodafone ka. Ek baar OTP confirm ho gaya, toh aapki SIM 100% activate ho jayegi. Aur koi dusra tarika nahi hai sir isko jaldi activate karne ka. Agar aap chahte hain ki aapka number band na ho, toh please mujhe woh OTP bata dijiye jo abhi aapke phone pe aaya hai. Bas woh ek number chahiye, aur sab ho jayega."
+    },
+    {
+      "speaker": "receiver",
+      "line": "Dekho bhai, main koi OTP nahi bataunga. Yeh sab scam lag raha hai mujhe. Agar Vodafone se ho toh bina OTP ke mera number activate karo na. Yeh sab bolne se kuch nahi hoga. Call cut kar dunga main abhi. Agar asli Vodafone wale ho toh kuch aur tareeka batao."
+    }
+  ],
+  "new_conversation": [
+    {
+      "speaker": "caller",
+      "line": "Namaste sir, main Cyber Security Department se Inspector Sharma bol raha hoon. Aapke mobile number par ek alert aaya hai ki aapka bank account ₹50,000 se zyada ka online transaction hone ki wajah se temporarily freeze kar diya gaya hai. Kya aap ise turant unlock karna chahenge?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Kya? ₹50,000 ka transaction? Mujhse toh koi transaction nahi hua hai. Aur aap Cyber Security Department se hain? Yeh sab kaise ho sakta hai?"
+    },
+    {
+      "speaker": "caller",
+      "line": "Ji sir, hum samajh sakte hain ki aap chintit honge. Yeh ek high-priority security alert hai. Aapki identity verify karne aur account ko unlock karne ke liye, mujhe aapke bank account se judi kuch details confirm karni hongi. Sabse pehle, aap apna registered mobile number aur us bank ka naam bataiye jismein aapka account hai?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Mera mobile number toh wohi hai jo aapne abhi dial kiya hai. Aur bank mera State Bank of India hai. Par yeh details toh aapke paas honi chahiye agar aap department se hain, kyunki yeh toh sabhi record mein hota hai. Kuch galat lag raha hai mujhe yeh sab."
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, woh toh hai. Lekin yeh process hai hamare advanced security system ka. Kayi baar system mein kuch glitches aa jaate hain. Agar aapko koi doubt hai, toh main aapko ek verification code bhejta hoon. Woh code aap mujhe bata dijiyega, phir hum aapke registered number aur bank details ko cross-verify kar lenge. Uske baad aapka account instantaneously unlock ho jayega. Yeh bilkul surakshit tarika hai sir."
+    },
+    {
+      "speaker": "receiver",
+      "line": "Verification code? Aur woh bhi mujhe batana padega? Yeh toh bilkul hi ashareef lag raha hai. Agar aap sach mein department se hain toh yeh verification code ka chakkar kyon? Main koi code nahi bataunga. Agar account unlock karne ka koi aur tarika hai toh batao, warna main call kaat raha hoon aur police mein complaint karunga."
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, sir, shaant ho jaiye. Hum aapki pareshani samajh rahe hain. Dekhiye, yeh code isliye mang rahe hain kyunki yeh hamara naya 'Emergency Account Recovery Protocol' hai. Ek baar yeh code verify ho gaya, toh aapka account 100% free ho jayega aur woh ₹50,000 ka suspicious transaction bhi cancel ho jayega. Sir, iske alawa koi doosra tareeka nahi hai aapke account ko itni jaldi unlock karne ka. Agar aap chahte hain ki aapka paisa surakshit rahe aur account unlock ho jaye, toh kripya mujhe woh 6-digit ka code bataiye jo abhi aapke phone par message mein aaya hai. Bas woh ek code chahiye, aur sab theek ho jayega."
+    },
+    {
+      "speaker": "receiver",
+      "line": "Dekho bhai, main koi code nahi bataunga. Yeh sab kuch scam lag raha hai mujhe. Agar tum asli department se ho toh bina code ke mera account unlock karo na. Yeh sab bolne se kuch nahi hone wala. Main abhi call cut kar raha hoon. Agar asli Cyber Crime wale ho toh kuch aur tareeka batao."
+    }
+  ]
+}

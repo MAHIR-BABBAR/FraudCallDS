@@ -1,0 +1,71 @@
+
+{
+  "original_conversation": [
+    {
+      "speaker": "caller",
+      "line": "Hello sir, I am from Airtel customer care. In 23 hours, your SIM will be closed. Do you want to activate it?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Kya? Airtel se bol rahe ho? Sim band ho jayegi? Aisa kaise ho sakta hai? Maine toh koi request nahi di thi. Kya naam hai aapka? Aur meri SIM kyun band ho rahi hai?"
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, mera naam Rahul hai aur ye SIM band hone ka reason kuch technical problem ki wajah se hai. Humne yeh aapke account mein dekha hai. Aapko chinta karne ki koi zaroorat nahi hai, hum yeh sab theek kar denge. Bas mujhe kuch details verify karni hongi. Aapka mobile number kya hai, sir?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Mobile number? Oh, the number jo band hone wala hai, right? Yeh toh... wait, let me check. Aapko toh shayad maine pehle bhi bataya tha na ki mera number kya hai? Wait, abhi yaad nahi aa raha. Thoda time do, phone mein dekhta hoon. Wait a minute, Rahul ji. Aur yeh technical problem hai kya? Koi notification toh nahi aaya mujhe."
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, no need to worry. Technical issues can happen without prior notification. It's important to verify your details to ensure we are helping the right account. Can you please confirm your mobile number?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Arre, Rahul ji, mujhe lagta hai yeh number 9876543210 hai. Wahi number jo aap keh rahe hain band hone wala hai. Aur yeh technical problem? Mujhe toh kuch samajh nahi aa raha. Koi prank call toh nahi hai? Aap bataiye, kya karna hoga?"
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, aapki SIM activate karni hai ya nahi? Agar aap nahi karenge toh 23 ghante mein automatic band ho jayegi. Agar aapko number confirm karna hai toh aapko mujhe kuch details batani hongi jisse main verify kar sakoon ki yehi aapka account hai. Please bataiye, kya aapko SIM activate karni hai?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Dekhiye Rahul ji, activate toh karna hi padega, sim band ho gayi toh bahut pareshani hogi. Lekin yeh details verify karne ka kya matlab hai? Aur kya aap mujhe bata sakte hain ki yeh 'technical problem' exactly kya hai? Matlab koi bata sakta hai ki mera connection kyu ja raha hai? Bas yeh number 9876543210 hi toh hai na? Agar aap mera number aur yeh problem verify kar sakte hain toh main details bata doonga. Koyi serious baat toh nahi hai na?"
+    }
+  ],
+  "new_conversation": [
+    {
+      "speaker": "caller",
+      "line": "Namaste sir, main Google Pay customer support se Arvind bol raha hoon. Aapke account mein ek suspicious transaction hua hai jismein aapke bank se ₹15,000 galat account mein transfer ho gaye hain. Kya aapko iska pata hai?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Kya? ₹15,000? Kahan se bol rahe ho? Meri Google Pay se? Maine toh kuch nahi kiya! Yeh sab kya ho raha hai? Aur aapka naam Arvind hai? Kaha se yeh Google Pay support?"
+    },
+    {
+      "speaker": "caller",
+      "line": "Ji sir, main Arvind hu aur hum Google Pay ki official team se hain. Humne aapke account mein real-time monitoring ke dauran yeh alert dekha hai. Sir, aapki security ke liye, humein kuch details verify karni hongi taaki hum is transaction ko turant stop kar sakein aur aapke paise wapas karwa sakein. Aapka registered mobile number kya hai sir?"
+    },
+    {
+      "speaker": "receiver",
+      "line": "Mera mobile number? Oh, jo Google Pay pe registered hai? Woh toh... wait, let me see. Uff, aajkal itne sare numbers ho gaye hain. Aapne pehle bhi pucha tha na? Wait a minute, Arvind ji. Aur yeh transaction stop kaise hoga? Koi message toh nahi aaya mujhe account se."
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, aisi alerts kabhi-kabhi bina notification ke aa jaate hain. It's very important ki hum jald se jald aapke account ki details verify kar lein taaki yeh fraud na ho aur aapke paise surakshit rahein. Please confirm your registered mobile number, sir."
+    },
+    {
+      "speaker": "receiver",
+      "line": "Arre, Arvind ji, mujhe lagta hai mera mobile number 9876543210 hai. Yeh wahi number hai jo mera Google Pay account se link hai. Aur yeh suspicious transaction? Matlab koi mere account se paise nikal gaya? Yeh koi prank call toh nahi hai? Jaldi bataiye, mujhe kya karna hoga?"
+    },
+    {
+      "speaker": "caller",
+      "line": "Sir, kya aap chahte hain ki hum is transaction ko abhi reject karein aur aapke ₹15,000 wapas refund process karein? Agar aapko hum par bharosa nahi hai, toh yeh paise wapas nahi ho payenge. Transaction already ho gaya hai, humein turant action lena hoga. Please confirm your mobile number again, aur phir hum aapko kuch verification steps batayenge."
+    },
+    {
+      "speaker": "receiver",
+      "line": "Dekhiye Arvind ji, ₹15,000 ka nuksaan toh nahi ho sakta! Paise wapas toh aane hi chahiye. Lekin yeh verification steps kya honge? Aur kya yeh 'suspicious transaction' ka matlab hai ki mera account hack ho gaya hai? Matlab koi mere bank details se khel raha hai? Yeh number 9876543210 hi toh hai na? Agar aap confirm kar sakte hain ki yeh sach mein Google Pay se call hai aur mere paise wapas aa jayenge, toh main details bata dunga. Aapko koi password ya OTP toh nahi chahiye, hai na?"
+    }
+  ]
+}

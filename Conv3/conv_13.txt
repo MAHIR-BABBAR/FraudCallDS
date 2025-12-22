@@ -1,0 +1,71 @@
+
+{
+  "original_conversation": [
+    {
+      "speaker": "caller",
+      "utterance": "Hello sir, main Vodafone customer care se bol raha hu. Aapke phone ki SIM 23 ghante mein inactive hone wali hai. Kya aap ise activate karna chahenge?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Achha? Vodafone se? Mera toh number toh Vodafone ka hi hai. Par 23 ghante mein inactive? Aisa kaise ho sakta hai? Koi problem hai kya meri SIM mein?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, aapki SIM mein koi problem nahi hai. Yeh ek standard procedure hai. Agar aap chahte hain ki aapki SIM chalti rahe, toh aapko bas yeh confirmation dena hoga. Kya main aapke account details verify kar sakta hoon, jaise ki aapka registered mobile number aur aapki date of birth?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Haan, bilkul. Mere number toh 9876543210 hai. Aur meri date of birth... wait, mujhe check karne do. Haan, 15th August 1990 hai."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Aapki date of birth bilkul sahi hai, sir. Aur yeh confirmation ke liye, mujhe aapke SIM registration ke liye use kiya gaya email address bhi chahiye hoga. Bataiye, kya tha woh?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Email address? Uhh, I don't remember it off the top of my head. Can you remind me what email address Vodafone has on file for me? Maybe that will jog my memory."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, woh information hum share nahi kar sakte hain security reasons ki wajah se. Aap please try kijiye yaad karne ka. Agar aapko yaad nahi aa raha hai, toh hum ek aur tarika try kar sakte hain. Aapke registered address pe ek OTP bhej denge, woh OTP aap mujhe bata dijiye. Toh confirmation ho jayega aur SIM activate rahegi."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "OTP? Mere registered address pe? Yeh toh thoda complicated lag raha hai. Can you tell me what address you have on file? Maybe that will help me remember."
+    }
+  ],
+  "new_conversation_scam_call": [
+    {
+      "speaker": "caller",
+      "utterance": "Namaste, main SBI bank se bol raha hu. Aapke ATM card ka expiry date kal khatam ho raha hai. Hum ise abhi activate karna chahte hain taaki aapko koi dikkat na ho."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "ATM card expiry? Kal hi? Yeh kaise ho sakta hai? Mera toh ATM card abhi 2 saal aur chalne wala tha. Koi gadbad hai kya?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, koi gadbad nahi hai. Yeh ek automatic process hai jo hamare system dwara kiya jata hai. Aapka card band na ho jaaye, isliye hum aapko yeh alert de rahe hain. Agar aap chahte hain ki aapka card chalta rahe, toh mujhe bas aapke account ki verify karna hoga. Kya main aapka 16-digit ATM card number aur aapki registered date of birth jaan sakta hoon?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "ATM card number? Haan, hai mere paas. Rukhye, nikal leta hoon. Yeh hai 4567 8901 2345 6789. Aur meri date of birth hai 10th March 1985."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Thank you, sir. Aapki details sahi hain. Ab, is activation ko confirm karne ke liye, hum aapke registered mobile number pe ek OTP bhejenge. Woh OTP aap mujhe bata dijiye, aur aapka card agle 5 saal ke liye activate ho jayega."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "OTP? Mere mobile number pe? Wait, yeh kuch ajib lag raha hai. Kya aap mujhe bata sakte hain ki aapke system mein mera mobile number kaun sa register hai? Shayad mujhe yaad aa jaaye."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, hum security reasons ki wajah se registered mobile number share nahi kar sakte hain. Yeh procedure ka ek hissa hai. Aap please try kijiye yaad karne ka. Agar aapko yaad nahi hai toh, hum ek aur tarika try kar sakte hain. Humein aapke register bank address pe ek form bhejna hoga jismein aapko kuch details fill karni hongi aur phir woh form hamein wapas bhejna hoga. Ya phir, ek aur tareeka hai, hum aapke register email address pe ek link bhejenge, uss link pe click karke aap verify kar sakte hain."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Email address pe link? Yeh sab kya hai? Itna complicated kyun ho raha hai? Aap seedha bataiye ki mera bank address kya hai aapke paas, taaki main confirm kar sakoon."
+    }
+  ]
+}

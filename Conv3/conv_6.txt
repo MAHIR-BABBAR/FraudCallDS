@@ -1,0 +1,71 @@
+
+{
+  "original_conversation": [
+    {
+      "speaker": "caller",
+      "utterance": "Hello sir, main Idea customer care se bol raha hoon. Aapki SIM 23 ghante mein band ho jayegi. Kya aap ise activate karna chahte hain?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Accha? Yeh toh badi pareshani wali baat hai. Lekin kya aap apna naam bata sakte hain, please? Aur yeh band hone ka reason kya hai?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Ji sir, mera naam Amit hai. Reason yeh hai ki ek new policy ke according, jo SIMs 3 mahine se activate nahi hui hain unhe band kiya ja raha hai. Aapki SIM use mein hai, isliye humne notification bheja hai. Agar aap activate karna chahte hain toh main aapko ek code bhejunga, woh aapko verify karna hoga."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Arre Amit ji, thank you for the clarification. Toh matlab meri SIM band hone wali nahi hai, bas yeh ek notification hai ki agar use na ho toh ho jayegi? Mujhe lagta hai main abhi isko activate karne ke liye code verify nahi kar paunga, koi aur time ho sakta hai iske liye?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Arre sir, yeh toh sirf process hai. Agar aap abhi nahi kar paate hain toh theek hai, hum dusre tarike se try karenge. Lekin iske liye hamein aapki details verify karni hogi, kyuki SIM band hone ka risk hai. Aapko koi aur time convenient lagega jab aap verification kar paayein? Hum kal bhi try kar sakte hain, lekin aapki SIM band hone se pehle activate karna zaroori hai."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Oh, I see. So, the main concern is the SIM might get deactivated if it's not used, and you need to verify my details to avoid that? What if I confirm my details now, but do the activation code verification later today, maybe in a couple of hours? Will that work? I'm a bit caught up right now."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Haan sir, woh ho jayega. Bas aap ek baar apni details confirm kar dijiye taaki hum confirmation ke liye record mein rakh sakein. Aapki SIM ka number aur registered naam bataiye, please? Aur yeh sim kis naam par hai?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Okay Amit ji. Meri SIM ka number hai 98765XXXXX aur yeh sim mere naam par hi registered hai, jo ki [Receiver's Name] hai. Bas naam aur number confirm kar lijiye. Verification code verify karne ke liye main thoda time baad call back karunga, is it okay?"
+    }
+  ],
+  "new_conversation_scam_call": [
+    {
+      "speaker": "caller",
+      "utterance": "Namaste sir, main Paytm Customer Support se helpline 198 se bol raha hoon. Aapki account mein ek suspicious transaction record hua hai jiske karan aapka Paytm account agle 12 ghante mein permanently block ho sakta hai. Kya aap ise activate rakhna chahte hain?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Achha? Ye kaisa transaction hai aur kyun block ho jayega mera account? Kuch problem ho gayi hai kya? Aap apna naam aur ID bata sakte hain, please?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Ji sir, mera naam Rajesh hai, aur meri ID hai PS1789. Yeh transaction ek anjaan source se aaya hai aur hamare system ne ise security risk maan kar flag kiya hai. Company policy ke hisaab se aise flagged transactions se bachne ke liye account ko temporary hold pe rakha jaata hai. Agar aap account activate rakhna chahte hain, toh humein aapke account ki kuch basic details verify karni hongi, aur phir hum ek 4-digit security code bhejenge jise aapko confirm karna hoga."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Security risk? Mujhe toh yaad nahi ki maine koi suspicious transaction kiya ho. Lekin agar mera account block ho gaya toh yeh badi pareshani ho jayegi. Main filhal bahar hoon, kya yeh verification process baad mein ho sakta hai? Aaj shaam tak ya kal subah?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, hum samajh sakte hain aapki situation. Lekin yeh process bahut urgent hai kyunki account block hone ka risk zyada hai. Hum aapki kuch details verify karke, ek temporary hold laga sakte hain, lekin final activation ke liye aapko woh security code confirm karna hoga. Agar aap abhi thoda time nikaal sakte hain, toh yeh process jaldi ho jayega. Kya aapko koi 30 minutes ka slot convenient rahega, sir? Hum aapko dobara call kar sakte hain."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Hmm, 30 minutes... Mujhe thoda sochna padega. Toh, aap keh rahe hain ki mera account automatically block nahi hoga agar main abhi kuch basic details confirm kar doon aur woh security code baad mein verify kar loon? Kaun si details chahiye aapko? Aur yeh security code confirm karne ka kya procedure hoga?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Haan sir, bilkul. Aapki details verify karne se hum secure tareeke se aapka account hold pe rakh denge. Aapki primary details jismein aapka registered mobile number, jiske saath Paytm account linked hai, aur account holder ka full name chahiye. Aur yeh sim kis naam par hai? Sirf yehi details confirm karne se aapka account temporary secure ho jayega."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Theek hai Rajesh ji. Mera registered mobile number hai 98765XXXXX. Aur yeh Paytm account mere naam par hi registered hai, jo ki [Receiver's Name] hai. Bas yeh do details confirm kar lijiye. Ab main woh security code verify karne ke liye aapko 2 ghante mein call back kar doonga, yeh theek rahega?"
+    }
+  ]
+}

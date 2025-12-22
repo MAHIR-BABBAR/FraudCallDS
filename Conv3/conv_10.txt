@@ -1,0 +1,87 @@
+
+{
+  "original_conversation": [
+    {
+      "speaker": "caller",
+      "utterance": "Hello sir, main Jio customer care se bol raha hoon. Aapke phone mein jo SIM hai, woh 23 ghante mein deactivate ho jayegi. Kya aap usse activate karna chahte hain?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Hello, achha? Main toh Jio use kar raha tha, par abhi toh koi message ya alert nahi aaya hai. Aap kis number ki baat kar rahe hain?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, aapke number pe jo alert aata hai wo kabhi kabhi miss ho jata hai. Don't worry, main aapka SIM activate kar dunga. Lekin uske liye mujhe kuch details chahiye hongi. Aapka registered mobile number bataiye jismein SIM hai."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Haan, mera registered mobile number hai 98xxxxxxxx. Aap bataiye kya details chahiye?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, thank you for confirming. Ab mujhe aapka SIM number batana hoga taki main verify kar sakoon. Aap apna SIM number bata sakte hain?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "SIM number? Aap woh kaunsa SIM number bol rahe hain? Mera toh ek hi Jio number hai. Mujhe samajh nahi aa raha aap kya maang rahe hain."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, woh jo aapke phone mein SIM card laga hua hai na, uske upar likha hota hai. Ek 20 digit ka number hota hai. Vo bataiye please, taaki main aapki SIM ko properly verify kar sakoon aur activate kar sakoon."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Arey yaar, woh SIM number toh maine kabhi notice hi nahi kiya. Phone ke box mein hoga shayad, but abhi toh woh mere paas hai nahi. Kuch aur tarika nahi hai verify karne ka? Jaise ki mera Aadhar ya kuch aur?"
+    }
+  ],
+  "new_conversation": [
+    {
+      "speaker": "caller",
+      "utterance": "Namaste, main Google Pay customer support se Rahul bol raha hoon. Aapke Google Pay account mein ek suspicious activity paayi gayi hai. Hamare system ne detect kiya hai ki kisi ne aapke account se Rs. 15,000 transfer karne ki koshish ki hai."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Kya? Rs. 15,000? Main toh abhi Google Pay use hi nahi kar raha tha. Aap kis account ki baat kar rahe hain?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, hum aapke registered mobile number par call kar rahe hain, jo ki 70xxxxxxxx hai. Hamari security protocol ke tahat, humein aapke account ko temporarily suspend karna padega jab tak hum yeh transaction verify nahi kar lete. Iske liye mujhe aapki account details verify karni hongi."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Haan, mera registered number toh 70xxxxxxxx hi hai. Lekin account details kya verify karni hain? Maine koi transaction nahi kiya."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Chinta mat kijiye sir. Sab theek ho jayega. Sabse pehle, please mujhe aapka Google Pay ID bataiye. Yeh woh ID hoti hai jo aap Google Pay open karte hain toh sabse upar dikhti hai."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Google Pay ID? Woh toh shayad mera phone number hi hai. Kya yeh `70xxxxxxxx@okaxis` jaisa kuch hai?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Bilkul sahi sir! Bahut achha. Ab, is transaction ko verify karne ke liye aur aapke account ko safe rakhne ke liye, mujhe aapka registered email ID chahiye jo Google Pay ke saath linked hai. Yeh ek 6-digit OTP ke baad aata hai."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Email ID? Aap email ID kyun maang rahe hain? Aur yeh OTP wala system kya hai? Mujhe lagta hai kuch gadbad hai. Maine kisi bhi tarah ka OTP share nahi kiya hai. Kya aap meri bank details verify kar sakte hain?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, yeh OTP aapke registered email par aayega aur humein bas confirm karna hai ki woh sahi hai taaki hum puri tarah se verify kar saken ki yeh transaction aap hi nahi kar rahe hain. Yeh hamari security policy ka hissa hai. Aapka email ID hai `example.user@email.com`?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Wait, wait! Aap mera email ID kaise jaante hain? Aur main koi OTP share nahi karunga. Mujhe lagta hai yeh scam call hai. Main abhi Google Pay app mein check karta hoon."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Sir, please! Agar aapne OTP share nahi kiya toh transaction ho jayega aur hum kuch nahi kar paayenge. Hum toh aapki help kar rahe hain."
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Help ke naam par tum meri details churaana chahte ho. Main abhi report karta hoon. Tumhara number save hai mere paas. Bye!"
+    }
+  ]
+}
