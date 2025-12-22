@@ -1,0 +1,71 @@
+
+{
+  "original_conversation": [
+    {
+      "speaker": "caller",
+      "utterance": "Hello ji, kaise hain aap? Ji, yeh Vodafone se baat kar raha hoon. Aapke number pe ek special offer aaya hai. Aaj jo Vodafone numbers hain, jo 4882 pe end hote hain, unko £350 ka award mil raha hai. Agar aapka number match karta hai to aap 09064019014 pe call karke apna award claim kar sakte hain. Yeh offer sirf 5 logon ke liye hai, aur aap usmein se ek hain! Kya aapko is offer ke bare mein sunna pasand karenge?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Hello ji, main bilkul theek hoon. Thanks for asking. Vodafone se special offer? £350 award? Ye toh sunne mein achha lag raha hai. Mera number 4882 pe end hota hai kya? Agar haan toh main details sunna chahunga. Sirf 5 logon ke liye hai? Ye toh interesting hai."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Ji ji, bilkul! Aapka number bilkul match karta hai! 4882 pe end hota hai. Aapki lucky draw mein selection ho gayi hai! Sirf 4 log aur bache hain ab, aur aap unmein se ek hain! Toh kya aap abhi call karna chahte hain? Offer jaldi khatam ho jayegi, aur yeh £350 ka award bahut accha hai, aap iska faayda utha sakte hain!"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Arre waah! Mera number match karta hai? Ye toh mazedaar baat hai! Lucky draw? Nice! Aur sirf 4 log bache hain? Theek hai, suniye, main abhi toh thoda busy hoon. Aap bataiye, yeh £350 claim karne ke liye mujhe kya karna hoga? Koi app download karna hai ya koi form fill karna hai? Aur yeh number 09064019014, yeh koi special helpline number hai kya?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Ji, samajh gaya main. Koi app download karne ya form fill karne ki zarurat nahi hai. Aapko bas us number 09064019014 pe call karna hai. Woh helpline number hai jahan se aapka award release hoga. Aur haan, 4 log hi bache hain, time kam hai! Aapko bas call karna hai aur bataana hai ki aapne yeh offer receive ki hai. Woh aapko detail mein bata denge ki £350 kaise claim karna hai. Aur bataiye, aap kab tak call kar payenge? Kahi yeh offer nikal na jaye!"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Haanji, woh number toh mil gaya hai, par abhi toh ghar mein kuch kaam chal raha hai, toh thoda time lagega. Aap ek kaam kijiye, mujhe message mein bata sakte hain ki yeh kaise claim karna hai? Matlab, koi website hai ya koi email address? Taaki jab main free hoon, toh main aasani se kar sakoon. Agar koi important detail miss na ho jaaye, isliye pooch raha hoon."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Ji, main samajh sakta hoon aapki situation. Par yeh jo offer hai na, yeh sirf phone call ke through hi claim ho sakti hai. Woh log call pe hi verification karte hain aur phir award release karte hain. Message ya email se yeh claim nahi ho paayega. Aur yeh helpline number 09064019014 bahot busy chal raha hai, aur ab sirf 2 log aur bache hain jinka number select hua hai. Agar aap abhi call nahi kar sakte toh koi baat nahi, par offer kal tak nahi rahegi. Aap apna £350 ka award miss nahi karna chahenge, right? Kya aap thoda time nikaal kar abhi call kar sakte hain? Sirf 2 minute lagenge, aur aapka award aapke paas!"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Arre yaar, do log hi bache hain? Aur call se hi claim hoga? Message ya email se nahi? Ye toh thoda tricky hai. Dekhiye, agar yeh offer really itni important hai aur £350 mil rahe hain, toh main try karta hoon. Lekin agar thoda bhi extra time lagta hai ya koi problem aati hai call par, toh main baad mein try karunga. Aap bataiye, abhi agar main call karta hoon, toh kitna time lag sakta hai maximum?"
+    }
+  ],
+  "new_conversation": [
+    {
+      "speaker": "caller",
+      "utterance": "Hello, good afternoon. This is Mr. Davies from the National Lottery Commission. How are you today? We're contacting you because your mobile number has been selected in a special prize draw. Many people are winning, and today, numbers ending in 7890 are eligible for a £500 Amazon voucher. If your number matches, you can claim your prize by calling 09061234567. This is a limited offer, only for the next 3 winners, and you're one of them! Would you be interested in hearing more about this amazing opportunity?"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Hello Mr. Davies. I'm doing well, thank you for asking. National Lottery Commission? £500 Amazon voucher? That sounds quite appealing! Does my number actually end in 7890? If so, I'd definitely like to know the details. Only for the next 3 winners? That certainly makes it sound exclusive."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Yes, precisely! Your number perfectly matches the draw criteria – it ends in 7890! You've been chosen in our super lucky draw! We've only got two more winners to contact after you, and you're on the cusp of claiming your prize! So, would you like to make that call right now? The offer is extremely time-sensitive, and this £500 voucher is a substantial prize. You really don't want to miss out!"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Wow, my number matches? That's quite a coincidence! A super lucky draw, you say? And only two more winners? Okay, listen, I'm a little occupied at the moment. Can you tell me what I need to do to claim this £500? Do I need to download an app or fill out a form? And is this 09061234567 a special hotline for prize winners?"
+    },
+    {
+      "speaker": "caller",
+      "utterance": "Understood. There's absolutely no need to download any apps or complete any forms. All you need to do is call that number, 09061234567. That's the dedicated prize claim line where your voucher will be officially processed. And yes, with only two spots left, time is of the essence! You just need to make the call and inform them you received this prize notification. They will guide you through the simple steps to secure your £500. So, when do you think you'll be able to make that call? We wouldn't want this opportunity to slip away!"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Yes, I've noted the number. However, I'm in the middle of something at home right now, so it might take a little while. Is there any chance you could send me the details via text message? Perhaps a website address or an email where I can find the claiming instructions? That way, when I'm free, I can proceed without missing any crucial information."
+    },
+    {
+      "speaker": "caller",
+      "utterance": "I completely understand your situation. However, this particular prize offer can only be claimed through a direct phone call. They conduct a brief verification over the phone to authorize the release of the voucher. Unfortunately, claiming via text or email isn't possible. This helpline, 09061234567, is experiencing high call volumes, and we're down to just one more potential winner after you. If you can't call immediately, that's alright, but this offer will expire by the end of today. You wouldn't want to miss out on your £500 Amazon voucher, would you? Could you possibly spare a couple of minutes to make that call now? It will only take a moment, and the voucher will be yours!"
+    },
+    {
+      "speaker": "receiver",
+      "utterance": "Oh dear, only one more winner left? And it has to be a phone call? No text or email? That's a bit inconvenient. Look, if this offer is genuinely as significant as you say and it's £500, I'll make an effort. But if there are any complications or it takes an unexpectedly long time on the call, I might have to try later. Can you give me an estimate of how long the call might take if I make it now?"
+    }
+  ]
+}
