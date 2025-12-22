@@ -1,9 +1,10 @@
-from google import genai
 import os
+
 from dotenv import load_dotenv
+from google import genai
 
 load_dotenv()
-client = genai.Client(api_key=os.environ["Gem_api1"])
+client = genai.Client(api_key=os.environ["Gem_api2"])
 
 
 def receiver(history: str) -> str:

@@ -3,3 +3,5 @@ convo.txt
 .env
 Conv/
 __pycache__/
+Conv2/
+venv/
